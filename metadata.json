@@ -1,0 +1,5 @@
+{
+  "name": "Social Pulse Calculator (Python)",
+  "description": "A real-time social sentiment analysis tool built with Python and Streamlit, utilizing Gemini Search Grounding.",
+  "requestFramePermissions": []
+}
